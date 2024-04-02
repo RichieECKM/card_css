@@ -1,0 +1,108 @@
+.outer {
+  background-color: rgb(50, 50, 220);
+  height: 800px;
+  color: rgb(233, 237, 239);
+  text-align: center;
+}
+.layer1 {
+  height: 599px;
+  width: 1250px;
+  position: relative;
+  top: 40px;
+  background-color: rgb(196, 207, 196);
+  color: black;
+}
+.layer2 {
+  height: 484px;
+  width: 350px;
+  margin-left: 50px;
+  position: relative;
+  top: 30px;
+  background-color: rgb(177, 176, 172);
+  padding-top: 1px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.layer3 {
+  height:484px;
+  width: 350px;
+  margin-left: 400px;
+  position: relative;
+  bottom: 600px;
+  background-color: rgb(177, 176, 172);
+  padding-top: 1px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.layer4 {
+  height: 484px;
+  width: 350px;
+  margin-left: 400px;
+  position: relative;
+  bottom: 600px;
+  background-color: rgb(177, 176, 172);
+  padding-top: 1px;
+  text-align: center;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.img1 {
+  border-radius: 500px;
+  box-shadow: inset;
+  position: relative;
+  bottom: 100px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.img2 {
+  border-radius: 500px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+  position: relative;
+  bottom: 100px;
+}
+.img3 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 100px;
+  box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px, rgb(51, 51, 51) 0px 0px 0px 3px;
+}
+.hd3 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 120px;
+}
+.txt3 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 130px;
+}
+.txt2 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 130px;
+}
+.txt1 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 130px;
+}
+.hd2 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 120px;
+}
+.hd1 {
+  border-radius: 500px;
+  position: relative;
+  bottom: 120px;
+}
+.box3{
+  padding: 10px;
+}
+.box2{
+  padding: 10px;
+}
+.box1{
+  padding: 10px;
+}
+.ft{
+  font-family: sans-serif;
+}
